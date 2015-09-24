@@ -1,0 +1,13 @@
+PODS:
+  - MJRefresh (2.4.11)
+  - RongCloudIMKit (2.3.1)
+
+DEPENDENCIES:
+  - MJRefresh
+  - RongCloudIMKit
+
+SPEC CHECKSUMS:
+  MJRefresh: b327947f35ab3eb16ca42646b26f7347e6aa7186
+  RongCloudIMKit: cb408a601cf23f7e506ebe1a7d95b54e74ade9af
+
+COCOAPODS: 0.38.2
